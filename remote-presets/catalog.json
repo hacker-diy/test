@@ -1,0 +1,1748 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "id": "fruits-berries",
+      "title": "Фрукты и ягоды",
+      "localName": "Фрукты и ягоды",
+      "tag": "GitHub",
+      "sub": "68 фото для загрузки в локальный пресет.",
+      "count": 68,
+      "enabled": true,
+      "images": [
+        {
+          "name": "Груша.JPG",
+          "url": "./fruits-berries/Груша.JPG"
+        },
+        {
+          "name": "Гуава.JPG",
+          "url": "./fruits-berries/Гуава.JPG"
+        },
+        {
+          "name": "Дыня.JPG",
+          "url": "./fruits-berries/Дыня.JPG"
+        },
+        {
+          "name": "Персик.JPG",
+          "url": "./fruits-berries/Персик.JPG"
+        },
+        {
+          "name": "Слива.JPG",
+          "url": "./fruits-berries/Слива.JPG"
+        },
+        {
+          "name": "Дуриан.JPG",
+          "url": "./fruits-berries/Дуриан.JPG"
+        },
+        {
+          "name": "Ежевика.JPG",
+          "url": "./fruits-berries/Ежевика.JPG"
+        },
+        {
+          "name": "Жимолость.JPG",
+          "url": "./fruits-berries/Жимолость.JPG"
+        },
+        {
+          "name": "Земляника.JPG",
+          "url": "./fruits-berries/Земляника.JPG"
+        },
+        {
+          "name": "Инжир.JPG",
+          "url": "./fruits-berries/Инжир.JPG"
+        },
+        {
+          "name": "Ирга.JPG",
+          "url": "./fruits-berries/Ирга.JPG"
+        },
+        {
+          "name": "Какао-плод.JPG",
+          "url": "./fruits-berries/Какао-плод.JPG"
+        },
+        {
+          "name": "Калина.JPG",
+          "url": "./fruits-berries/Калина.JPG"
+        },
+        {
+          "name": "КАРАМБОЛА.JPG",
+          "url": "./fruits-berries/КАРАМБОЛА.JPG"
+        },
+        {
+          "name": "КИВИ.JPG",
+          "url": "./fruits-berries/КИВИ.JPG"
+        },
+        {
+          "name": "Кизил.JPG",
+          "url": "./fruits-berries/Кизил.JPG"
+        },
+        {
+          "name": "КЛЕМЕНТИН.JPG",
+          "url": "./fruits-berries/КЛЕМЕНТИН.JPG"
+        },
+        {
+          "name": "Клубника.JPG",
+          "url": "./fruits-berries/Клубника.JPG"
+        },
+        {
+          "name": "Клюква.JPG",
+          "url": "./fruits-berries/Клюква.JPG"
+        },
+        {
+          "name": "Кокос.JPG",
+          "url": "./fruits-berries/Кокос.JPG"
+        },
+        {
+          "name": "Кумкват.JPG",
+          "url": "./fruits-berries/Кумкват.JPG"
+        },
+        {
+          "name": "Личи.JPG",
+          "url": "./fruits-berries/Личи.JPG"
+        },
+        {
+          "name": "МАРАКУЙЯ.JPG",
+          "url": "./fruits-berries/МАРАКУЙЯ.JPG"
+        },
+        {
+          "name": "Мангостин.JPG",
+          "url": "./fruits-berries/Мангостин.JPG"
+        },
+        {
+          "name": "Костяника.JPG",
+          "url": "./fruits-berries/Костяника.JPG"
+        },
+        {
+          "name": "Крыжовник.JPG",
+          "url": "./fruits-berries/Крыжовник.JPG"
+        },
+        {
+          "name": "Лайм.JPG",
+          "url": "./fruits-berries/Лайм.JPG"
+        },
+        {
+          "name": "Лимон.JPG",
+          "url": "./fruits-berries/Лимон.JPG"
+        },
+        {
+          "name": "Малина.JPG",
+          "url": "./fruits-berries/Малина.JPG"
+        },
+        {
+          "name": "Манго.JPG",
+          "url": "./fruits-berries/Манго.JPG"
+        },
+        {
+          "name": "Мандарин.JPG",
+          "url": "./fruits-berries/Мандарин.JPG"
+        },
+        {
+          "name": "Морошка.JPG",
+          "url": "./fruits-berries/Морошка.JPG"
+        },
+        {
+          "name": "Нектарин.JPG",
+          "url": "./fruits-berries/Нектарин.JPG"
+        },
+        {
+          "name": "ОБЛЕПИХА.JPG",
+          "url": "./fruits-berries/ОБЛЕПИХА.JPG"
+        },
+        {
+          "name": "ПАПАЙЯ.JPG",
+          "url": "./fruits-berries/ПАПАЙЯ.JPG"
+        },
+        {
+          "name": "ПОМЕЛО.JPG",
+          "url": "./fruits-berries/ПОМЕЛО.JPG"
+        },
+        {
+          "name": "РЯБИНА.JPG",
+          "url": "./fruits-berries/РЯБИНА.JPG"
+        },
+        {
+          "name": "СМОРОДИНА.JPG",
+          "url": "./fruits-berries/СМОРОДИНА.JPG"
+        },
+        {
+          "name": "ТЁРН.JPG",
+          "url": "./fruits-berries/ТЁРН.JPG"
+        },
+        {
+          "name": "ХУРМА.JPG",
+          "url": "./fruits-berries/ХУРМА.JPG"
+        },
+        {
+          "name": "ЧЕРЁМУХА.JPG",
+          "url": "./fruits-berries/ЧЕРЁМУХА.JPG"
+        },
+        {
+          "name": "ЧЕРНИКА.JPG",
+          "url": "./fruits-berries/ЧЕРНИКА.JPG"
+        },
+        {
+          "name": "Черешня.JPG",
+          "url": "./fruits-berries/Черешня.JPG"
+        },
+        {
+          "name": "Черноплодная рябина.JPG",
+          "url": "./fruits-berries/Черноплодная рябина.JPG"
+        },
+        {
+          "name": "Шелковица.JPG",
+          "url": "./fruits-berries/Шелковица.JPG"
+        },
+        {
+          "name": "Яблоко.JPG",
+          "url": "./fruits-berries/Яблоко.JPG"
+        },
+        {
+          "name": "Драконий фрукт.JPG",
+          "url": "./fruits-berries/Драконий фрукт.JPG"
+        },
+        {
+          "name": "Княженика.JPG",
+          "url": "./fruits-berries/Княженика.JPG"
+        },
+        {
+          "name": "Абрикос.JPG",
+          "url": "./fruits-berries/Абрикос.JPG"
+        },
+        {
+          "name": "Авокадо.JPG",
+          "url": "./fruits-berries/Авокадо.JPG"
+        },
+        {
+          "name": "Айва.JPG",
+          "url": "./fruits-berries/Айва.JPG"
+        },
+        {
+          "name": "Алыча.JPG",
+          "url": "./fruits-berries/Алыча.JPG"
+        },
+        {
+          "name": "Ананас.JPG",
+          "url": "./fruits-berries/Ананас.JPG"
+        },
+        {
+          "name": "Апельсин.JPG",
+          "url": "./fruits-berries/Апельсин.JPG"
+        },
+        {
+          "name": "Арбуз.JPG",
+          "url": "./fruits-berries/Арбуз.JPG"
+        },
+        {
+          "name": "Банан.JPG",
+          "url": "./fruits-berries/Банан.JPG"
+        },
+        {
+          "name": "Барбарис.JPG",
+          "url": "./fruits-berries/Барбарис.JPG"
+        },
+        {
+          "name": "Фейхоа.JPG",
+          "url": "./fruits-berries/Фейхоа.JPG"
+        },
+        {
+          "name": "Бергамот.JPG",
+          "url": "./fruits-berries/Бергамот.JPG"
+        },
+        {
+          "name": "Боярышник.JPG",
+          "url": "./fruits-berries/Боярышник.JPG"
+        },
+        {
+          "name": "Виноград.JPG",
+          "url": "./fruits-berries/Виноград.JPG"
+        },
+        {
+          "name": "Вишня.JPG",
+          "url": "./fruits-berries/Вишня.JPG"
+        },
+        {
+          "name": "Брусника.JPG",
+          "url": "./fruits-berries/Брусника.JPG"
+        },
+        {
+          "name": "Бузина.JPG",
+          "url": "./fruits-berries/Бузина.JPG"
+        },
+        {
+          "name": "Голубика.JPG",
+          "url": "./fruits-berries/Голубика.JPG"
+        },
+        {
+          "name": "Годжи.JPG",
+          "url": "./fruits-berries/Годжи.JPG"
+        },
+        {
+          "name": "Гранат.JPG",
+          "url": "./fruits-berries/Гранат.JPG"
+        },
+        {
+          "name": "Грейпфрут.JPG",
+          "url": "./fruits-berries/Грейпфрут.JPG"
+        }
+      ]
+    },
+    {
+      "id": "numbers-1-100",
+      "title": "Цифры 1–100",
+      "localName": "Цифры 1–100",
+      "tag": "GitHub",
+      "sub": "100 фото для загрузки в локальный пресет.",
+      "count": 100,
+      "enabled": true,
+      "images": [
+        {
+          "name": "1.JPG",
+          "url": "./numbers-1-100/1.JPG"
+        },
+        {
+          "name": "2.JPG",
+          "url": "./numbers-1-100/2.JPG"
+        },
+        {
+          "name": "3.JPG",
+          "url": "./numbers-1-100/3.JPG"
+        },
+        {
+          "name": "4.JPG",
+          "url": "./numbers-1-100/4.JPG"
+        },
+        {
+          "name": "5.JPG",
+          "url": "./numbers-1-100/5.JPG"
+        },
+        {
+          "name": "6.JPG",
+          "url": "./numbers-1-100/6.JPG"
+        },
+        {
+          "name": "7.JPG",
+          "url": "./numbers-1-100/7.JPG"
+        },
+        {
+          "name": "8.JPG",
+          "url": "./numbers-1-100/8.JPG"
+        },
+        {
+          "name": "9.JPG",
+          "url": "./numbers-1-100/9.JPG"
+        },
+        {
+          "name": "10.JPG",
+          "url": "./numbers-1-100/10.JPG"
+        },
+        {
+          "name": "11.JPG",
+          "url": "./numbers-1-100/11.JPG"
+        },
+        {
+          "name": "12.JPG",
+          "url": "./numbers-1-100/12.JPG"
+        },
+        {
+          "name": "13.JPG",
+          "url": "./numbers-1-100/13.JPG"
+        },
+        {
+          "name": "14.JPG",
+          "url": "./numbers-1-100/14.JPG"
+        },
+        {
+          "name": "15.JPG",
+          "url": "./numbers-1-100/15.JPG"
+        },
+        {
+          "name": "16.JPG",
+          "url": "./numbers-1-100/16.JPG"
+        },
+        {
+          "name": "17.JPG",
+          "url": "./numbers-1-100/17.JPG"
+        },
+        {
+          "name": "18.JPG",
+          "url": "./numbers-1-100/18.JPG"
+        },
+        {
+          "name": "19.JPG",
+          "url": "./numbers-1-100/19.JPG"
+        },
+        {
+          "name": "20.JPG",
+          "url": "./numbers-1-100/20.JPG"
+        },
+        {
+          "name": "21.JPG",
+          "url": "./numbers-1-100/21.JPG"
+        },
+        {
+          "name": "22.JPG",
+          "url": "./numbers-1-100/22.JPG"
+        },
+        {
+          "name": "23.JPG",
+          "url": "./numbers-1-100/23.JPG"
+        },
+        {
+          "name": "24.JPG",
+          "url": "./numbers-1-100/24.JPG"
+        },
+        {
+          "name": "25.JPG",
+          "url": "./numbers-1-100/25.JPG"
+        },
+        {
+          "name": "26.JPG",
+          "url": "./numbers-1-100/26.JPG"
+        },
+        {
+          "name": "27.JPG",
+          "url": "./numbers-1-100/27.JPG"
+        },
+        {
+          "name": "28.JPG",
+          "url": "./numbers-1-100/28.JPG"
+        },
+        {
+          "name": "29.JPG",
+          "url": "./numbers-1-100/29.JPG"
+        },
+        {
+          "name": "30.JPG",
+          "url": "./numbers-1-100/30.JPG"
+        },
+        {
+          "name": "31.JPG",
+          "url": "./numbers-1-100/31.JPG"
+        },
+        {
+          "name": "32.JPG",
+          "url": "./numbers-1-100/32.JPG"
+        },
+        {
+          "name": "33.JPG",
+          "url": "./numbers-1-100/33.JPG"
+        },
+        {
+          "name": "34.JPG",
+          "url": "./numbers-1-100/34.JPG"
+        },
+        {
+          "name": "35.JPG",
+          "url": "./numbers-1-100/35.JPG"
+        },
+        {
+          "name": "36.JPG",
+          "url": "./numbers-1-100/36.JPG"
+        },
+        {
+          "name": "37.JPG",
+          "url": "./numbers-1-100/37.JPG"
+        },
+        {
+          "name": "38.JPG",
+          "url": "./numbers-1-100/38.JPG"
+        },
+        {
+          "name": "39.JPG",
+          "url": "./numbers-1-100/39.JPG"
+        },
+        {
+          "name": "40.JPG",
+          "url": "./numbers-1-100/40.JPG"
+        },
+        {
+          "name": "41.JPG",
+          "url": "./numbers-1-100/41.JPG"
+        },
+        {
+          "name": "42.JPG",
+          "url": "./numbers-1-100/42.JPG"
+        },
+        {
+          "name": "43.JPG",
+          "url": "./numbers-1-100/43.JPG"
+        },
+        {
+          "name": "44.JPG",
+          "url": "./numbers-1-100/44.JPG"
+        },
+        {
+          "name": "45.JPG",
+          "url": "./numbers-1-100/45.JPG"
+        },
+        {
+          "name": "46.JPG",
+          "url": "./numbers-1-100/46.JPG"
+        },
+        {
+          "name": "47.JPG",
+          "url": "./numbers-1-100/47.JPG"
+        },
+        {
+          "name": "48.JPG",
+          "url": "./numbers-1-100/48.JPG"
+        },
+        {
+          "name": "49.JPG",
+          "url": "./numbers-1-100/49.JPG"
+        },
+        {
+          "name": "50.JPG",
+          "url": "./numbers-1-100/50.JPG"
+        },
+        {
+          "name": "51.JPG",
+          "url": "./numbers-1-100/51.JPG"
+        },
+        {
+          "name": "52.JPG",
+          "url": "./numbers-1-100/52.JPG"
+        },
+        {
+          "name": "53.JPG",
+          "url": "./numbers-1-100/53.JPG"
+        },
+        {
+          "name": "54.JPG",
+          "url": "./numbers-1-100/54.JPG"
+        },
+        {
+          "name": "55.JPG",
+          "url": "./numbers-1-100/55.JPG"
+        },
+        {
+          "name": "56.JPG",
+          "url": "./numbers-1-100/56.JPG"
+        },
+        {
+          "name": "57.JPG",
+          "url": "./numbers-1-100/57.JPG"
+        },
+        {
+          "name": "58.JPG",
+          "url": "./numbers-1-100/58.JPG"
+        },
+        {
+          "name": "59.JPG",
+          "url": "./numbers-1-100/59.JPG"
+        },
+        {
+          "name": "60.JPG",
+          "url": "./numbers-1-100/60.JPG"
+        },
+        {
+          "name": "61.JPG",
+          "url": "./numbers-1-100/61.JPG"
+        },
+        {
+          "name": "62.JPG",
+          "url": "./numbers-1-100/62.JPG"
+        },
+        {
+          "name": "63.JPG",
+          "url": "./numbers-1-100/63.JPG"
+        },
+        {
+          "name": "64.JPG",
+          "url": "./numbers-1-100/64.JPG"
+        },
+        {
+          "name": "65.JPG",
+          "url": "./numbers-1-100/65.JPG"
+        },
+        {
+          "name": "66.JPG",
+          "url": "./numbers-1-100/66.JPG"
+        },
+        {
+          "name": "67.JPG",
+          "url": "./numbers-1-100/67.JPG"
+        },
+        {
+          "name": "68.JPG",
+          "url": "./numbers-1-100/68.JPG"
+        },
+        {
+          "name": "69.JPG",
+          "url": "./numbers-1-100/69.JPG"
+        },
+        {
+          "name": "70.JPG",
+          "url": "./numbers-1-100/70.JPG"
+        },
+        {
+          "name": "71.JPG",
+          "url": "./numbers-1-100/71.JPG"
+        },
+        {
+          "name": "72.JPG",
+          "url": "./numbers-1-100/72.JPG"
+        },
+        {
+          "name": "73.JPG",
+          "url": "./numbers-1-100/73.JPG"
+        },
+        {
+          "name": "74.JPG",
+          "url": "./numbers-1-100/74.JPG"
+        },
+        {
+          "name": "75.JPG",
+          "url": "./numbers-1-100/75.JPG"
+        },
+        {
+          "name": "76.JPG",
+          "url": "./numbers-1-100/76.JPG"
+        },
+        {
+          "name": "77.JPG",
+          "url": "./numbers-1-100/77.JPG"
+        },
+        {
+          "name": "78.JPG",
+          "url": "./numbers-1-100/78.JPG"
+        },
+        {
+          "name": "79.JPG",
+          "url": "./numbers-1-100/79.JPG"
+        },
+        {
+          "name": "80.JPG",
+          "url": "./numbers-1-100/80.JPG"
+        },
+        {
+          "name": "81.JPG",
+          "url": "./numbers-1-100/81.JPG"
+        },
+        {
+          "name": "82.JPG",
+          "url": "./numbers-1-100/82.JPG"
+        },
+        {
+          "name": "83.JPG",
+          "url": "./numbers-1-100/83.JPG"
+        },
+        {
+          "name": "84.JPG",
+          "url": "./numbers-1-100/84.JPG"
+        },
+        {
+          "name": "85.JPG",
+          "url": "./numbers-1-100/85.JPG"
+        },
+        {
+          "name": "86.JPG",
+          "url": "./numbers-1-100/86.JPG"
+        },
+        {
+          "name": "87.JPG",
+          "url": "./numbers-1-100/87.JPG"
+        },
+        {
+          "name": "88.JPG",
+          "url": "./numbers-1-100/88.JPG"
+        },
+        {
+          "name": "89.JPG",
+          "url": "./numbers-1-100/89.JPG"
+        },
+        {
+          "name": "90.JPG",
+          "url": "./numbers-1-100/90.JPG"
+        },
+        {
+          "name": "91.JPG",
+          "url": "./numbers-1-100/91.JPG"
+        },
+        {
+          "name": "92.JPG",
+          "url": "./numbers-1-100/92.JPG"
+        },
+        {
+          "name": "93.JPG",
+          "url": "./numbers-1-100/93.JPG"
+        },
+        {
+          "name": "94.JPG",
+          "url": "./numbers-1-100/94.JPG"
+        },
+        {
+          "name": "95.JPG",
+          "url": "./numbers-1-100/95.JPG"
+        },
+        {
+          "name": "96.JPG",
+          "url": "./numbers-1-100/96.JPG"
+        },
+        {
+          "name": "97.JPG",
+          "url": "./numbers-1-100/97.JPG"
+        },
+        {
+          "name": "98.JPG",
+          "url": "./numbers-1-100/98.JPG"
+        },
+        {
+          "name": "99.JPG",
+          "url": "./numbers-1-100/99.JPG"
+        },
+        {
+          "name": "100.JPG",
+          "url": "./numbers-1-100/100.JPG"
+        }
+      ]
+    },
+    {
+      "id": "countries-100",
+      "title": "100 стран",
+      "localName": "100 стран",
+      "tag": "GitHub",
+      "sub": "100 фото для загрузки в локальный пресет.",
+      "count": 100,
+      "enabled": true,
+      "images": [
+        {
+          "name": "США.jpg",
+          "url": "./100_stran_preset/США.jpg"
+        },
+        {
+          "name": "Франция.jpg",
+          "url": "./100_stran_preset/Франция.jpg"
+        },
+        {
+          "name": "Великобритания.jpg",
+          "url": "./100_stran_preset/Великобритания.jpg"
+        },
+        {
+          "name": "Китай.jpg",
+          "url": "./100_stran_preset/Китай.jpg"
+        },
+        {
+          "name": "Испания.jpg",
+          "url": "./100_stran_preset/Испания.jpg"
+        },
+        {
+          "name": "Япония.jpg",
+          "url": "./100_stran_preset/Япония.jpg"
+        },
+        {
+          "name": "Италия.jpg",
+          "url": "./100_stran_preset/Италия.jpg"
+        },
+        {
+          "name": "Германия.jpg",
+          "url": "./100_stran_preset/Германия.jpg"
+        },
+        {
+          "name": "ОАЭ.jpg",
+          "url": "./100_stran_preset/ОАЭ.jpg"
+        },
+        {
+          "name": "Канада.jpg",
+          "url": "./100_stran_preset/Канада.jpg"
+        },
+        {
+          "name": "Турция.jpg",
+          "url": "./100_stran_preset/Турция.jpg"
+        },
+        {
+          "name": "Саудовская Аравия.jpg",
+          "url": "./100_stran_preset/Саудовская Аравия.jpg"
+        },
+        {
+          "name": "Индия.jpg",
+          "url": "./100_stran_preset/Индия.jpg"
+        },
+        {
+          "name": "Южная Корея.jpg",
+          "url": "./100_stran_preset/Южная Корея.jpg"
+        },
+        {
+          "name": "Швейцария.jpg",
+          "url": "./100_stran_preset/Швейцария.jpg"
+        },
+        {
+          "name": "Австралия.jpg",
+          "url": "./100_stran_preset/Австралия.jpg"
+        },
+        {
+          "name": "Мексика.jpg",
+          "url": "./100_stran_preset/Мексика.jpg"
+        },
+        {
+          "name": "Таиланд.jpg",
+          "url": "./100_stran_preset/Таиланд.jpg"
+        },
+        {
+          "name": "Нидерланды.jpg",
+          "url": "./100_stran_preset/Нидерланды.jpg"
+        },
+        {
+          "name": "Сингапур.jpg",
+          "url": "./100_stran_preset/Сингапур.jpg"
+        },
+        {
+          "name": "Греция.jpg",
+          "url": "./100_stran_preset/Греция.jpg"
+        },
+        {
+          "name": "Бразилия.jpg",
+          "url": "./100_stran_preset/Бразилия.jpg"
+        },
+        {
+          "name": "Португалия.jpg",
+          "url": "./100_stran_preset/Португалия.jpg"
+        },
+        {
+          "name": "Австрия.jpg",
+          "url": "./100_stran_preset/Австрия.jpg"
+        },
+        {
+          "name": "Индонезия.jpg",
+          "url": "./100_stran_preset/Индонезия.jpg"
+        },
+        {
+          "name": "Малайзия.jpg",
+          "url": "./100_stran_preset/Малайзия.jpg"
+        },
+        {
+          "name": "Египет.jpg",
+          "url": "./100_stran_preset/Египет.jpg"
+        },
+        {
+          "name": "Польша.jpg",
+          "url": "./100_stran_preset/Польша.jpg"
+        },
+        {
+          "name": "Гонконг.jpg",
+          "url": "./100_stran_preset/Гонконг.jpg"
+        },
+        {
+          "name": "Катар.jpg",
+          "url": "./100_stran_preset/Катар.jpg"
+        },
+        {
+          "name": "Швеция.jpg",
+          "url": "./100_stran_preset/Швеция.jpg"
+        },
+        {
+          "name": "Россия.jpg",
+          "url": "./100_stran_preset/Россия.jpg"
+        },
+        {
+          "name": "Вьетнам.jpg",
+          "url": "./100_stran_preset/Вьетнам.jpg"
+        },
+        {
+          "name": "Бельгия.jpg",
+          "url": "./100_stran_preset/Бельгия.jpg"
+        },
+        {
+          "name": "Марокко.jpg",
+          "url": "./100_stran_preset/Марокко.jpg"
+        },
+        {
+          "name": "Южная Африка.jpg",
+          "url": "./100_stran_preset/Южная Африка.jpg"
+        },
+        {
+          "name": "Дания.jpg",
+          "url": "./100_stran_preset/Дания.jpg"
+        },
+        {
+          "name": "Ирландия.jpg",
+          "url": "./100_stran_preset/Ирландия.jpg"
+        },
+        {
+          "name": "Норвегия.jpg",
+          "url": "./100_stran_preset/Норвегия.jpg"
+        },
+        {
+          "name": "Новая Зеландия.jpg",
+          "url": "./100_stran_preset/Новая Зеландия.jpg"
+        },
+        {
+          "name": "Израиль.jpg",
+          "url": "./100_stran_preset/Израиль.jpg"
+        },
+        {
+          "name": "Чехия.jpg",
+          "url": "./100_stran_preset/Чехия.jpg"
+        },
+        {
+          "name": "Хорватия.jpg",
+          "url": "./100_stran_preset/Хорватия.jpg"
+        },
+        {
+          "name": "Венгрия.jpg",
+          "url": "./100_stran_preset/Венгрия.jpg"
+        },
+        {
+          "name": "Аргентина.jpg",
+          "url": "./100_stran_preset/Аргентина.jpg"
+        },
+        {
+          "name": "Финляндия.jpg",
+          "url": "./100_stran_preset/Финляндия.jpg"
+        },
+        {
+          "name": "Филиппины.jpg",
+          "url": "./100_stran_preset/Филиппины.jpg"
+        },
+        {
+          "name": "Иордания.jpg",
+          "url": "./100_stran_preset/Иордания.jpg"
+        },
+        {
+          "name": "Чили.jpg",
+          "url": "./100_stran_preset/Чили.jpg"
+        },
+        {
+          "name": "Колумбия.jpg",
+          "url": "./100_stran_preset/Колумбия.jpg"
+        },
+        {
+          "name": "Исландия.jpg",
+          "url": "./100_stran_preset/Исландия.jpg"
+        },
+        {
+          "name": "Румыния.jpg",
+          "url": "./100_stran_preset/Румыния.jpg"
+        },
+        {
+          "name": "Перу.jpg",
+          "url": "./100_stran_preset/Перу.jpg"
+        },
+        {
+          "name": "Сербия.jpg",
+          "url": "./100_stran_preset/Сербия.jpg"
+        },
+        {
+          "name": "Украина.jpg",
+          "url": "./100_stran_preset/Украина.jpg"
+        },
+        {
+          "name": "Люксембург.jpg",
+          "url": "./100_stran_preset/Люксембург.jpg"
+        },
+        {
+          "name": "Доминиканская Республика.jpg",
+          "url": "./100_stran_preset/Доминиканская Республика.jpg"
+        },
+        {
+          "name": "Кипр.jpg",
+          "url": "./100_stran_preset/Кипр.jpg"
+        },
+        {
+          "name": "Тунис.jpg",
+          "url": "./100_stran_preset/Тунис.jpg"
+        },
+        {
+          "name": "Иран.jpg",
+          "url": "./100_stran_preset/Иран.jpg"
+        },
+        {
+          "name": "Кения.jpg",
+          "url": "./100_stran_preset/Кения.jpg"
+        },
+        {
+          "name": "Словения.jpg",
+          "url": "./100_stran_preset/Словения.jpg"
+        },
+        {
+          "name": "Словакия.jpg",
+          "url": "./100_stran_preset/Словакия.jpg"
+        },
+        {
+          "name": "Куба.jpg",
+          "url": "./100_stran_preset/Куба.jpg"
+        },
+        {
+          "name": "Шри-Ланка.jpg",
+          "url": "./100_stran_preset/Шри-Ланка.jpg"
+        },
+        {
+          "name": "Грузия.jpg",
+          "url": "./100_stran_preset/Грузия.jpg"
+        },
+        {
+          "name": "Эстония.jpg",
+          "url": "./100_stran_preset/Эстония.jpg"
+        },
+        {
+          "name": "Литва.jpg",
+          "url": "./100_stran_preset/Литва.jpg"
+        },
+        {
+          "name": "Латвия.jpg",
+          "url": "./100_stran_preset/Латвия.jpg"
+        },
+        {
+          "name": "Оман.jpg",
+          "url": "./100_stran_preset/Оман.jpg"
+        },
+        {
+          "name": "Бахрейн.jpg",
+          "url": "./100_stran_preset/Бахрейн.jpg"
+        },
+        {
+          "name": "Кувейт.jpg",
+          "url": "./100_stran_preset/Кувейт.jpg"
+        },
+        {
+          "name": "Азербайджан.jpg",
+          "url": "./100_stran_preset/Азербайджан.jpg"
+        },
+        {
+          "name": "Казахстан.jpg",
+          "url": "./100_stran_preset/Казахстан.jpg"
+        },
+        {
+          "name": "Узбекистан.jpg",
+          "url": "./100_stran_preset/Узбекистан.jpg"
+        },
+        {
+          "name": "Албания.jpg",
+          "url": "./100_stran_preset/Албания.jpg"
+        },
+        {
+          "name": "Черногория.jpg",
+          "url": "./100_stran_preset/Черногория.jpg"
+        },
+        {
+          "name": "Мальта.jpg",
+          "url": "./100_stran_preset/Мальта.jpg"
+        },
+        {
+          "name": "Коста-Рика.jpg",
+          "url": "./100_stran_preset/Коста-Рика.jpg"
+        },
+        {
+          "name": "Панама.jpg",
+          "url": "./100_stran_preset/Панама.jpg"
+        },
+        {
+          "name": "Уругвай.jpg",
+          "url": "./100_stran_preset/Уругвай.jpg"
+        },
+        {
+          "name": "Эквадор.jpg",
+          "url": "./100_stran_preset/Эквадор.jpg"
+        },
+        {
+          "name": "Маврикий.jpg",
+          "url": "./100_stran_preset/Маврикий.jpg"
+        },
+        {
+          "name": "Танзания.jpg",
+          "url": "./100_stran_preset/Танзания.jpg"
+        },
+        {
+          "name": "Намибия.jpg",
+          "url": "./100_stran_preset/Намибия.jpg"
+        },
+        {
+          "name": "Ботсвана.jpg",
+          "url": "./100_stran_preset/Ботсвана.jpg"
+        },
+        {
+          "name": "Армения.jpg",
+          "url": "./100_stran_preset/Армения.jpg"
+        },
+        {
+          "name": "Босния и Герцеговина.jpg",
+          "url": "./100_stran_preset/Босния и Герцеговина.jpg"
+        },
+        {
+          "name": "Беларусь.jpg",
+          "url": "./100_stran_preset/Беларусь.jpg"
+        },
+        {
+          "name": "Ямайка.jpg",
+          "url": "./100_stran_preset/Ямайка.jpg"
+        },
+        {
+          "name": "Непал.jpg",
+          "url": "./100_stran_preset/Непал.jpg"
+        },
+        {
+          "name": "Камбоджа.jpg",
+          "url": "./100_stran_preset/Камбоджа.jpg"
+        },
+        {
+          "name": "Лаос.jpg",
+          "url": "./100_stran_preset/Лаос.jpg"
+        },
+        {
+          "name": "Монголия.jpg",
+          "url": "./100_stran_preset/Монголия.jpg"
+        },
+        {
+          "name": "Нигерия.jpg",
+          "url": "./100_stran_preset/Нигерия.jpg"
+        },
+        {
+          "name": "Алжир.jpg",
+          "url": "./100_stran_preset/Алжир.jpg"
+        },
+        {
+          "name": "Пакистан.jpg",
+          "url": "./100_stran_preset/Пакистан.jpg"
+        },
+        {
+          "name": "Бангладеш.jpg",
+          "url": "./100_stran_preset/Бангладеш.jpg"
+        },
+        {
+          "name": "Парагвай.jpg",
+          "url": "./100_stran_preset/Парагвай.jpg"
+        },
+        {
+          "name": "Боливия.jpg",
+          "url": "./100_stran_preset/Боливия.jpg"
+        }
+      ]
+    },
+    {
+      "id": "popular-tracks-100",
+      "title": "100 популярных треков",
+      "localName": "100 популярных треков",
+      "tag": "GitHub",
+      "sub": "100 карточек для загрузки в локальный пресет.",
+      "count": 100,
+      "enabled": true,
+      "images": [
+        {
+          "name": "50 Cent - In Da Club.jpg",
+          "url": "./100_popular_tracks_cards/50 Cent - In Da Club.jpg"
+        },
+        {
+          "name": "A-ha - Take On Me.jpg",
+          "url": "./100_popular_tracks_cards/A-ha - Take On Me.jpg"
+        },
+        {
+          "name": "ABBA - Dancing Queen.jpg",
+          "url": "./100_popular_tracks_cards/ABBA - Dancing Queen.jpg"
+        },
+        {
+          "name": "AC-DC - Highway to Hell.jpg",
+          "url": "./100_popular_tracks_cards/AC-DC - Highway to Hell.jpg"
+        },
+        {
+          "name": "Adele - Rolling in the Deep.jpg",
+          "url": "./100_popular_tracks_cards/Adele - Rolling in the Deep.jpg"
+        },
+        {
+          "name": "Aerosmith - I Don’t Want to Miss a Thing.jpg",
+          "url": "./100_popular_tracks_cards/Aerosmith - I Don’t Want to Miss a Thing.jpg"
+        },
+        {
+          "name": "Alphaville - Forever Young.jpg",
+          "url": "./100_popular_tracks_cards/Alphaville - Forever Young.jpg"
+        },
+        {
+          "name": "Aqua - Barbie Girl.jpg",
+          "url": "./100_popular_tracks_cards/Aqua - Barbie Girl.jpg"
+        },
+        {
+          "name": "Backstreet Boys - I Want It That Way.jpg",
+          "url": "./100_popular_tracks_cards/Backstreet Boys - I Want It That Way.jpg"
+        },
+        {
+          "name": "Bee Gees - Stayin’ Alive.jpg",
+          "url": "./100_popular_tracks_cards/Bee Gees - Stayin’ Alive.jpg"
+        },
+        {
+          "name": "Black Eyed Peas - I Gotta Feeling.jpg",
+          "url": "./100_popular_tracks_cards/Black Eyed Peas - I Gotta Feeling.jpg"
+        },
+        {
+          "name": "Bob Marley & The Wailers - No Woman, No Cry.jpg",
+          "url": "./100_popular_tracks_cards/Bob Marley & The Wailers - No Woman, No Cry.jpg"
+        },
+        {
+          "name": "Bob Marley & The Wailers - One Love.jpg",
+          "url": "./100_popular_tracks_cards/Bob Marley & The Wailers - One Love.jpg"
+        },
+        {
+          "name": "Bon Jovi - It’s My Life.jpg",
+          "url": "./100_popular_tracks_cards/Bon Jovi - It’s My Life.jpg"
+        },
+        {
+          "name": "Boney M. - Daddy Cool.jpg",
+          "url": "./100_popular_tracks_cards/Boney M. - Daddy Cool.jpg"
+        },
+        {
+          "name": "Boney M. - Rasputin.jpg",
+          "url": "./100_popular_tracks_cards/Boney M. - Rasputin.jpg"
+        },
+        {
+          "name": "Bonnie Tyler - Total Eclipse of the Heart.jpg",
+          "url": "./100_popular_tracks_cards/Bonnie Tyler - Total Eclipse of the Heart.jpg"
+        },
+        {
+          "name": "Britney Spears - …Baby One More Time.jpg",
+          "url": "./100_popular_tracks_cards/Britney Spears - …Baby One More Time.jpg"
+        },
+        {
+          "name": "Bruno Mars - Just the Way You Are.jpg",
+          "url": "./100_popular_tracks_cards/Bruno Mars - Just the Way You Are.jpg"
+        },
+        {
+          "name": "Bryan Adams - Everything I Do (I Do It for You).jpg",
+          "url": "./100_popular_tracks_cards/Bryan Adams - Everything I Do (I Do It for You).jpg"
+        },
+        {
+          "name": "Bryan Adams - Summer of ’69.jpg",
+          "url": "./100_popular_tracks_cards/Bryan Adams - Summer of ’69.jpg"
+        },
+        {
+          "name": "Celine Dion - My Heart Will Go On.jpg",
+          "url": "./100_popular_tracks_cards/Celine Dion - My Heart Will Go On.jpg"
+        },
+        {
+          "name": "Christina Aguilera - Beautiful.jpg",
+          "url": "./100_popular_tracks_cards/Christina Aguilera - Beautiful.jpg"
+        },
+        {
+          "name": "Coldplay - Viva La Vida.jpg",
+          "url": "./100_popular_tracks_cards/Coldplay - Viva La Vida.jpg"
+        },
+        {
+          "name": "Coldplay - Yellow.jpg",
+          "url": "./100_popular_tracks_cards/Coldplay - Yellow.jpg"
+        },
+        {
+          "name": "Coolio - Gangsta’s Paradise.jpg",
+          "url": "./100_popular_tracks_cards/Coolio - Gangsta’s Paradise.jpg"
+        },
+        {
+          "name": "David Bowie - Heroes.jpg",
+          "url": "./100_popular_tracks_cards/David Bowie - Heroes.jpg"
+        },
+        {
+          "name": "Deep Purple - Smoke on the Water.jpg",
+          "url": "./100_popular_tracks_cards/Deep Purple - Smoke on the Water.jpg"
+        },
+        {
+          "name": "Donna Summer - Hot Stuff.jpg",
+          "url": "./100_popular_tracks_cards/Donna Summer - Hot Stuff.jpg"
+        },
+        {
+          "name": "Dr. Dre ft. Snoop Dogg - Still D.R.E..jpg",
+          "url": "./100_popular_tracks_cards/Dr. Dre ft. Snoop Dogg - Still D.R.E..jpg"
+        },
+        {
+          "name": "Dua Lipa - Don’t Start Now.jpg",
+          "url": "./100_popular_tracks_cards/Dua Lipa - Don’t Start Now.jpg"
+        },
+        {
+          "name": "Eagles - Hotel California.jpg",
+          "url": "./100_popular_tracks_cards/Eagles - Hotel California.jpg"
+        },
+        {
+          "name": "Earth, Wind & Fire - September.jpg",
+          "url": "./100_popular_tracks_cards/Earth, Wind & Fire - September.jpg"
+        },
+        {
+          "name": "Ed Sheeran - Shape of You.jpg",
+          "url": "./100_popular_tracks_cards/Ed Sheeran - Shape of You.jpg"
+        },
+        {
+          "name": "Elton John - Can You Feel the Love Tonight.jpg",
+          "url": "./100_popular_tracks_cards/Elton John - Can You Feel the Love Tonight.jpg"
+        },
+        {
+          "name": "Elton John - Your Song.jpg",
+          "url": "./100_popular_tracks_cards/Elton John - Your Song.jpg"
+        },
+        {
+          "name": "Eminem - Lose Yourself.jpg",
+          "url": "./100_popular_tracks_cards/Eminem - Lose Yourself.jpg"
+        },
+        {
+          "name": "Eminem - Without Me.jpg",
+          "url": "./100_popular_tracks_cards/Eminem - Without Me.jpg"
+        },
+        {
+          "name": "Enrique Iglesias - Hero.jpg",
+          "url": "./100_popular_tracks_cards/Enrique Iglesias - Hero.jpg"
+        },
+        {
+          "name": "Europe - The Final Countdown.jpg",
+          "url": "./100_popular_tracks_cards/Europe - The Final Countdown.jpg"
+        },
+        {
+          "name": "Eurythmics - Sweet Dreams (Are Made of This).jpg",
+          "url": "./100_popular_tracks_cards/Eurythmics - Sweet Dreams (Are Made of This).jpg"
+        },
+        {
+          "name": "Frank Sinatra - My Way.jpg",
+          "url": "./100_popular_tracks_cards/Frank Sinatra - My Way.jpg"
+        },
+        {
+          "name": "Gloria Gaynor - I Will Survive.jpg",
+          "url": "./100_popular_tracks_cards/Gloria Gaynor - I Will Survive.jpg"
+        },
+        {
+          "name": "Green Day - Boulevard of Broken Dreams.jpg",
+          "url": "./100_popular_tracks_cards/Green Day - Boulevard of Broken Dreams.jpg"
+        },
+        {
+          "name": "Guns N’ Roses - Sweet Child O’ Mine.jpg",
+          "url": "./100_popular_tracks_cards/Guns N’ Roses - Sweet Child O’ Mine.jpg"
+        },
+        {
+          "name": "Imagine Dragons - Believer.jpg",
+          "url": "./100_popular_tracks_cards/Imagine Dragons - Believer.jpg"
+        },
+        {
+          "name": "Imagine Dragons - Radioactive.jpg",
+          "url": "./100_popular_tracks_cards/Imagine Dragons - Radioactive.jpg"
+        },
+        {
+          "name": "Jeff Buckley - Hallelujah.jpg",
+          "url": "./100_popular_tracks_cards/Jeff Buckley - Hallelujah.jpg"
+        },
+        {
+          "name": "Jennifer Lopez - Let’s Get Loud.jpg",
+          "url": "./100_popular_tracks_cards/Jennifer Lopez - Let’s Get Loud.jpg"
+        },
+        {
+          "name": "John Lennon - Imagine.jpg",
+          "url": "./100_popular_tracks_cards/John Lennon - Imagine.jpg"
+        },
+        {
+          "name": "Justin Timberlake - Can’t Stop the Feeling!.jpg",
+          "url": "./100_popular_tracks_cards/Justin Timberlake - Can’t Stop the Feeling!.jpg"
+        },
+        {
+          "name": "Katy Perry - Firework.jpg",
+          "url": "./100_popular_tracks_cards/Katy Perry - Firework.jpg"
+        },
+        {
+          "name": "Katy Perry - Roar.jpg",
+          "url": "./100_popular_tracks_cards/Katy Perry - Roar.jpg"
+        },
+        {
+          "name": "Lady Gaga & Bradley Cooper - Shallow.jpg",
+          "url": "./100_popular_tracks_cards/Lady Gaga & Bradley Cooper - Shallow.jpg"
+        },
+        {
+          "name": "Lady Gaga - Bad Romance.jpg",
+          "url": "./100_popular_tracks_cards/Lady Gaga - Bad Romance.jpg"
+        },
+        {
+          "name": "Leonard Cohen - Hallelujah.jpg",
+          "url": "./100_popular_tracks_cards/Leonard Cohen - Hallelujah.jpg"
+        },
+        {
+          "name": "Linkin Park - In the End.jpg",
+          "url": "./100_popular_tracks_cards/Linkin Park - In the End.jpg"
+        },
+        {
+          "name": "Linkin Park - Numb.jpg",
+          "url": "./100_popular_tracks_cards/Linkin Park - Numb.jpg"
+        },
+        {
+          "name": "Los del Río - Macarena.jpg",
+          "url": "./100_popular_tracks_cards/Los del Río - Macarena.jpg"
+        },
+        {
+          "name": "Lou Bega - Mambo No. 5.jpg",
+          "url": "./100_popular_tracks_cards/Lou Bega - Mambo No. 5.jpg"
+        },
+        {
+          "name": "Louis Armstrong - What a Wonderful World.jpg",
+          "url": "./100_popular_tracks_cards/Louis Armstrong - What a Wonderful World.jpg"
+        },
+        {
+          "name": "Luis Fonsi ft. Daddy Yankee - Despacito.jpg",
+          "url": "./100_popular_tracks_cards/Luis Fonsi ft. Daddy Yankee - Despacito.jpg"
+        },
+        {
+          "name": "MC Hammer - U Can’t Touch This.jpg",
+          "url": "./100_popular_tracks_cards/MC Hammer - U Can’t Touch This.jpg"
+        },
+        {
+          "name": "Madonna - Like a Prayer.jpg",
+          "url": "./100_popular_tracks_cards/Madonna - Like a Prayer.jpg"
+        },
+        {
+          "name": "Mark Ronson ft. Bruno Mars - Uptown Funk.jpg",
+          "url": "./100_popular_tracks_cards/Mark Ronson ft. Bruno Mars - Uptown Funk.jpg"
+        },
+        {
+          "name": "Metallica - Nothing Else Matters.jpg",
+          "url": "./100_popular_tracks_cards/Metallica - Nothing Else Matters.jpg"
+        },
+        {
+          "name": "Michael Jackson - Billie Jean.jpg",
+          "url": "./100_popular_tracks_cards/Michael Jackson - Billie Jean.jpg"
+        },
+        {
+          "name": "Modern Talking - You’re My Heart, You’re My Soul.jpg",
+          "url": "./100_popular_tracks_cards/Modern Talking - You’re My Heart, You’re My Soul.jpg"
+        },
+        {
+          "name": "Nirvana - Smells Like Teen Spirit.jpg",
+          "url": "./100_popular_tracks_cards/Nirvana - Smells Like Teen Spirit.jpg"
+        },
+        {
+          "name": "Oasis - Wonderwall.jpg",
+          "url": "./100_popular_tracks_cards/Oasis - Wonderwall.jpg"
+        },
+        {
+          "name": "OutKast - Hey Ya!.jpg",
+          "url": "./100_popular_tracks_cards/OutKast - Hey Ya!.jpg"
+        },
+        {
+          "name": "Pharrell Williams - Happy.jpg",
+          "url": "./100_popular_tracks_cards/Pharrell Williams - Happy.jpg"
+        },
+        {
+          "name": "Prince - Purple Rain.jpg",
+          "url": "./100_popular_tracks_cards/Prince - Purple Rain.jpg"
+        },
+        {
+          "name": "Psy - Gangnam Style.jpg",
+          "url": "./100_popular_tracks_cards/Psy - Gangnam Style.jpg"
+        },
+        {
+          "name": "Queen - Bohemian Rhapsody.jpg",
+          "url": "./100_popular_tracks_cards/Queen - Bohemian Rhapsody.jpg"
+        },
+        {
+          "name": "Queen - We Will Rock You.jpg",
+          "url": "./100_popular_tracks_cards/Queen - We Will Rock You.jpg"
+        },
+        {
+          "name": "Radiohead - Creep.jpg",
+          "url": "./100_popular_tracks_cards/Radiohead - Creep.jpg"
+        },
+        {
+          "name": "Red Hot Chili Peppers - Californication.jpg",
+          "url": "./100_popular_tracks_cards/Red Hot Chili Peppers - Californication.jpg"
+        },
+        {
+          "name": "Ricky Martin - Livin’ la Vida Loca.jpg",
+          "url": "./100_popular_tracks_cards/Ricky Martin - Livin’ la Vida Loca.jpg"
+        },
+        {
+          "name": "Rihanna - Diamonds.jpg",
+          "url": "./100_popular_tracks_cards/Rihanna - Diamonds.jpg"
+        },
+        {
+          "name": "Rihanna - Umbrella.jpg",
+          "url": "./100_popular_tracks_cards/Rihanna - Umbrella.jpg"
+        },
+        {
+          "name": "Roxette - It Must Have Been Love.jpg",
+          "url": "./100_popular_tracks_cards/Roxette - It Must Have Been Love.jpg"
+        },
+        {
+          "name": "Santana ft. Rob Thomas - Smooth.jpg",
+          "url": "./100_popular_tracks_cards/Santana ft. Rob Thomas - Smooth.jpg"
+        },
+        {
+          "name": "Scorpions - Wind of Change.jpg",
+          "url": "./100_popular_tracks_cards/Scorpions - Wind of Change.jpg"
+        },
+        {
+          "name": "Shakira - Waka Waka (This Time for Africa).jpg",
+          "url": "./100_popular_tracks_cards/Shakira - Waka Waka (This Time for Africa).jpg"
+        },
+        {
+          "name": "Shakira ft. Wyclef Jean - Hips Don’t Lie.jpg",
+          "url": "./100_popular_tracks_cards/Shakira ft. Wyclef Jean - Hips Don’t Lie.jpg"
+        },
+        {
+          "name": "Sia - Chandelier.jpg",
+          "url": "./100_popular_tracks_cards/Sia - Chandelier.jpg"
+        },
+        {
+          "name": "Spice Girls - Wannabe.jpg",
+          "url": "./100_popular_tracks_cards/Spice Girls - Wannabe.jpg"
+        },
+        {
+          "name": "Sting - Shape of My Heart.jpg",
+          "url": "./100_popular_tracks_cards/Sting - Shape of My Heart.jpg"
+        },
+        {
+          "name": "Survivor - Eye of the Tiger.jpg",
+          "url": "./100_popular_tracks_cards/Survivor - Eye of the Tiger.jpg"
+        },
+        {
+          "name": "The Beatles - Let It Be.jpg",
+          "url": "./100_popular_tracks_cards/The Beatles - Let It Be.jpg"
+        },
+        {
+          "name": "The Jackson 5 - I Want You Back.jpg",
+          "url": "./100_popular_tracks_cards/The Jackson 5 - I Want You Back.jpg"
+        },
+        {
+          "name": "The Police - Every Breath You Take.jpg",
+          "url": "./100_popular_tracks_cards/The Police - Every Breath You Take.jpg"
+        },
+        {
+          "name": "The Rolling Stones - (I Can’t Get No) Satisfaction.jpg",
+          "url": "./100_popular_tracks_cards/The Rolling Stones - (I Can’t Get No) Satisfaction.jpg"
+        },
+        {
+          "name": "The Weeknd - Blinding Lights.jpg",
+          "url": "./100_popular_tracks_cards/The Weeknd - Blinding Lights.jpg"
+        },
+        {
+          "name": "Tina Turner - The Best.jpg",
+          "url": "./100_popular_tracks_cards/Tina Turner - The Best.jpg"
+        },
+        {
+          "name": "U2 - With or Without You.jpg",
+          "url": "./100_popular_tracks_cards/U2 - With or Without You.jpg"
+        },
+        {
+          "name": "Vanilla Ice - Ice Ice Baby.jpg",
+          "url": "./100_popular_tracks_cards/Vanilla Ice - Ice Ice Baby.jpg"
+        },
+        {
+          "name": "Village People - YMCA.jpg",
+          "url": "./100_popular_tracks_cards/Village People - YMCA.jpg"
+        },
+        {
+          "name": "Whitney Houston - I Will Always Love You.jpg",
+          "url": "./100_popular_tracks_cards/Whitney Houston - I Will Always Love You.jpg"
+        }
+      ]
+    },
+    {
+      "id": "playing-cards-emoji",
+      "title": "Игральные карты",
+      "localName": "Игральные карты",
+      "tag": "GitHub",
+      "sub": "54 карточки для загрузки в локальный пресет.",
+      "count": 54,
+      "enabled": true,
+      "images": [
+        {
+          "name": "A ♥.jpg",
+          "url": "./playing_cards_emoji_preset/A ♥.jpg"
+        },
+        {
+          "name": "2 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/2 ♥.jpg"
+        },
+        {
+          "name": "3 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/3 ♥.jpg"
+        },
+        {
+          "name": "4 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/4 ♥.jpg"
+        },
+        {
+          "name": "5 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/5 ♥.jpg"
+        },
+        {
+          "name": "6 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/6 ♥.jpg"
+        },
+        {
+          "name": "7 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/7 ♥.jpg"
+        },
+        {
+          "name": "8 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/8 ♥.jpg"
+        },
+        {
+          "name": "9 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/9 ♥.jpg"
+        },
+        {
+          "name": "10 ♥.jpg",
+          "url": "./playing_cards_emoji_preset/10 ♥.jpg"
+        },
+        {
+          "name": "J ♥.jpg",
+          "url": "./playing_cards_emoji_preset/J ♥.jpg"
+        },
+        {
+          "name": "Q ♥.jpg",
+          "url": "./playing_cards_emoji_preset/Q ♥.jpg"
+        },
+        {
+          "name": "K ♥.jpg",
+          "url": "./playing_cards_emoji_preset/K ♥.jpg"
+        },
+        {
+          "name": "A ♦.jpg",
+          "url": "./playing_cards_emoji_preset/A ♦.jpg"
+        },
+        {
+          "name": "2 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/2 ♦.jpg"
+        },
+        {
+          "name": "3 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/3 ♦.jpg"
+        },
+        {
+          "name": "4 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/4 ♦.jpg"
+        },
+        {
+          "name": "5 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/5 ♦.jpg"
+        },
+        {
+          "name": "6 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/6 ♦.jpg"
+        },
+        {
+          "name": "7 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/7 ♦.jpg"
+        },
+        {
+          "name": "8 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/8 ♦.jpg"
+        },
+        {
+          "name": "9 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/9 ♦.jpg"
+        },
+        {
+          "name": "10 ♦.jpg",
+          "url": "./playing_cards_emoji_preset/10 ♦.jpg"
+        },
+        {
+          "name": "J ♦.jpg",
+          "url": "./playing_cards_emoji_preset/J ♦.jpg"
+        },
+        {
+          "name": "Q ♦.jpg",
+          "url": "./playing_cards_emoji_preset/Q ♦.jpg"
+        },
+        {
+          "name": "K ♦.jpg",
+          "url": "./playing_cards_emoji_preset/K ♦.jpg"
+        },
+        {
+          "name": "A ♣.jpg",
+          "url": "./playing_cards_emoji_preset/A ♣.jpg"
+        },
+        {
+          "name": "2 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/2 ♣.jpg"
+        },
+        {
+          "name": "3 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/3 ♣.jpg"
+        },
+        {
+          "name": "4 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/4 ♣.jpg"
+        },
+        {
+          "name": "5 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/5 ♣.jpg"
+        },
+        {
+          "name": "6 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/6 ♣.jpg"
+        },
+        {
+          "name": "7 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/7 ♣.jpg"
+        },
+        {
+          "name": "8 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/8 ♣.jpg"
+        },
+        {
+          "name": "9 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/9 ♣.jpg"
+        },
+        {
+          "name": "10 ♣.jpg",
+          "url": "./playing_cards_emoji_preset/10 ♣.jpg"
+        },
+        {
+          "name": "J ♣.jpg",
+          "url": "./playing_cards_emoji_preset/J ♣.jpg"
+        },
+        {
+          "name": "Q ♣.jpg",
+          "url": "./playing_cards_emoji_preset/Q ♣.jpg"
+        },
+        {
+          "name": "K ♣.jpg",
+          "url": "./playing_cards_emoji_preset/K ♣.jpg"
+        },
+        {
+          "name": "A ♠.jpg",
+          "url": "./playing_cards_emoji_preset/A ♠.jpg"
+        },
+        {
+          "name": "2 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/2 ♠.jpg"
+        },
+        {
+          "name": "3 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/3 ♠.jpg"
+        },
+        {
+          "name": "4 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/4 ♠.jpg"
+        },
+        {
+          "name": "5 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/5 ♠.jpg"
+        },
+        {
+          "name": "6 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/6 ♠.jpg"
+        },
+        {
+          "name": "7 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/7 ♠.jpg"
+        },
+        {
+          "name": "8 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/8 ♠.jpg"
+        },
+        {
+          "name": "9 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/9 ♠.jpg"
+        },
+        {
+          "name": "10 ♠.jpg",
+          "url": "./playing_cards_emoji_preset/10 ♠.jpg"
+        },
+        {
+          "name": "J ♠.jpg",
+          "url": "./playing_cards_emoji_preset/J ♠.jpg"
+        },
+        {
+          "name": "Q ♠.jpg",
+          "url": "./playing_cards_emoji_preset/Q ♠.jpg"
+        },
+        {
+          "name": "K ♠.jpg",
+          "url": "./playing_cards_emoji_preset/K ♠.jpg"
+        },
+        {
+          "name": "Red Joker.jpg",
+          "url": "./playing_cards_emoji_preset/Red Joker.jpg"
+        },
+        {
+          "name": "Black Joker.jpg",
+          "url": "./playing_cards_emoji_preset/Black Joker.jpg"
+        }
+      ]
+    }
+  ]
+}
