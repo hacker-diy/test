@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MC</string>
+    <string name="brand_name">Magic Control</string>
+    <string name="device_url">http://192.168.4.1/</string>
+</resources>
